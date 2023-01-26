@@ -1,0 +1,6 @@
+_G.wl_key = "b74560b30e98aab9f339b7b03cc158a4f2b87bfa" -- Key as of 5/11/22
+-- IF KEY DOESNT WORK, JOIN THEIR DISCORD TO GET A NEW ONE https://discord.com/invite/cH7p8Px96B
+-- USE THIS TO BYPASS LINKVERTISE https://bypass.vip/
+
+repeat wait() until game:isLoaded() task.wait(1)
+loadstring(game:HttpGet('https://scripts.luawl.com/13324/heros-destiny.lua'))()
