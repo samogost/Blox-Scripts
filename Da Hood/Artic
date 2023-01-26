@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://polarsblade.xyz/Arctic/Arctic.txt"))()
+-- Discord : https://discord.gg/mGfgkPN37X
